@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin @Varaan785
+# 👋 Hallo, ich bin @Valerian
 
 👀 Ich interessiere mich für moderne Webentwicklung, Fullstack-Technologien und agile Softwareprojekte  
 🌱 Ich habe 2024 eine umfassende Weiterbildung als Fullstack Developer abgeschlossen (React, TypeScript, Java, Spring Boot, SQL, Git)  
